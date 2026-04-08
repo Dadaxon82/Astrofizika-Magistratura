@@ -1,0 +1,12 @@
+# Manim orqali yaratilgan videolar va keshlar
+media/
+__pycache__/
+
+# Python muhit va boshqa kerakmas fayllar
+.venv/
+venv/
+*.pyc
+
+# IDE sozlash fayllari
+.vscode/
+.idea/
